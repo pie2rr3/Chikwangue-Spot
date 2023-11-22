@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-Welcome to the thrilling world of Chikwangue Mystery, a tower defense game where each session is a unique adventure. Get ready to defend your territories against waves of invaders using a variety of towers and strategies. With multiple maps and enemies, each game presents new challenges to conquer.
+Welcome to the thrilling world of Chikwangue Spot, a tower defense game where each session is a unique adventure. Get ready to defend your territories against waves of invaders using a variety of towers and strategies. With multiple maps and enemies, each game presents new challenges to conquer.
 
 ## Project Stack
 
